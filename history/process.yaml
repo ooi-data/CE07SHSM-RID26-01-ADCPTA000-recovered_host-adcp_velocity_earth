@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE07SHSM-RID26-01-ADCPTA000-recovered_host-adcp_velocity_earth
 data_stream: CE07SHSM-RID26-01-ADCPTA000-recovered_host-adcp_velocity_earth
 end_date: '2021-09-14T23:04:02.005Z'
-last_updated: '2021-12-29T05:43:07.319008'
+last_updated: '2022-01-03T01:50:48.553281Z'
 start_date: '2015-04-05T17:18:00.720Z'
-status: success
+status: pending
